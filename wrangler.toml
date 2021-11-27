@@ -1,0 +1,16 @@
+name = "cloudflare-discord-template"
+type = "webpack"
+webpack_config = "webpack.config.js"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+
+compatibility_date = "2021-11-27"
+compatibility_flags = []
+
+# [secrets]
+# APPLICATION_ID
+# APPLICATION_SECRET
+# PUBLIC_KEY
